@@ -1,5 +1,6 @@
 # GitExplore 🚀
 https://gitexplore0.netlify.app/
+
 Welcome to **GitExplore**, a sleek and powerful web application designed to help you discover, analyze, and keep track of trending GitHub repositories. With a modern, dark-themed UI, GitExplore provides a premium experience for developers and tech enthusiasts to stay on top of the latest projects in the open-source world.
 
 ![GitExplore Screenshot](https://raw.githubusercontent.com/firebase/studio-hosting/main/gitexplore-screenshot.png)
